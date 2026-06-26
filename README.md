@@ -19,20 +19,6 @@
 
 I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to developing predictive machine learning pipelines for traffic management, I thrive at the intersection of complex problem-solving and scalable software development.
 
-* 🎓 **Academics:** BTech in Information Technology with a Minor in Entrepreneurship.
-* 💻 **Focus Areas:** Full-Stack Architecture, Applied Machine Learning, and Algorithmic Trading Systems.
-* 🤝 **Community:** GDG Web Development Wing Member (conducted workshops for 100+ participants) and Problem Setter for Code-X-Culture.
-
----
-
-### 🏆 Competitive Programming
-
-* **LeetCode:** ♘ Knight (Max Rating: 1928)
-* **CodeChef:** ★★★★ 4-Star (Max Rating: 1812)
-* **Codeforces:** 🔹 Specialist (Max Rating: 1560)
-* **Meta Hacker Cup 2025:** Round 1 (Rank: 4682) | Round 2 (Rank: 1993)
-* **IIITA CodePlus:** Ranked 2nd among all sophomores in the Long Contest.
-
 ---
 
 ### 🛠️ Tech Stack
