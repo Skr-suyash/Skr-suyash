@@ -1,224 +1,66 @@
-# 👋 Hey there, I'm **Suyash Sharma** 🚀
-
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Skr-suyash?style=social)](https://github.com/Skr-suyash)
-  [![GitHub User's stars](https://img.shields.io/github/stars/Skr-suyash?style=social)](https://github.com/Skr-suyash)
-  
-  <h3>✨ Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor ✨</h3>
-  
-  <p>
-    <em>Building impactful solutions with code, creativity, and innovation</em>
-  </p>
-
+  <h1>Hi there, I'm Suyash Kumar 👋</h1>
+  <h3>Software Engineer | AI/ML Enthusiast | Competitive Programmer</h3>
+  <p><i>Undergraduate at the Indian Institute of Information Technology, Allahabad (IIITA)</i></p>
 </div>
 
+<p align="center">
+  <a href="mailto:suyashkumar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[https://linkedin.com/in/suyashkumar](https://www.linkedin.com/in/suyash-kumar-b87a3a268/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
+### 🚀 About Me
+
+<p>
+I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to developing predictive machine learning pipelines for traffic management, I thrive at the intersection of complex problem-solving and scalable software development.
+</p>
 ---
 
-## 🌟 **Showcase Projects** 
-### *Featured Creations That Define My Journey*
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎓 <strong>HappyU</strong></h3>
-        <p><em>Educational Platform</em></p>
-        <a href="https://github.com/Skr-suyash/HappyU">
-          <img src="https://img.shields.io/badge/View%20Repo-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="HappyU">
-        </a>
-        <br><br>
-        <p>Transform learning experiences with an interactive educational platform designed to boost student engagement and achievement.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📈 <strong>NovaTrade</strong></h3>
-        <p><em>Trading & Analytics Platform</em></p>
-        <a href="https://github.com/Skr-suyash/NovaTrade">
-          <img src="https://img.shields.io/badge/View%20Repo-Python-blue?style=for-the-badge&logo=python" alt="NovaTrade">
-        </a>
-        <br><br>
-        <p>Advanced trading platform leveraging AI and real-time market analysis for intelligent investment decisions.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🔮 <strong>Prism</strong></h3>
-        <p><em>Modern TypeScript Application</em></p>
-        <a href="https://github.com/Skr-suyash/prism">
-          <img src="https://img.shields.io/badge/View%20Repo-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="Prism">
-        </a>
-        <br><br>
-        <p>Next-generation application showcasing cutting-edge TypeScript patterns and architectural best practices.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🗄️ <strong>MosaicDB</strong></h3>
-        <p><em>Database System</em></p>
-        <a href="https://github.com/Skr-suyash/MosaicDB-main">
-          <img src="https://img.shields.io/badge/View%20Repo-C++-00599C?style=for-the-badge&logo=cplusplus" alt="MosaicDB">
-        </a>
-        <br><br>
-        <p>High-performance database system built in C++, demonstrating low-level systems programming expertise.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌾 <strong>FarmMate</strong></h3>
-        <p><em>Agricultural Mobile App</em></p>
-        <a href="https://github.com/Skr-suyash/FarmMate">
-          <img src="https://img.shields.io/badge/View%20Repo-Dart-0175C2?style=for-the-badge&logo=dart" alt="FarmMate">
-        </a>
-        <br><br>
-        <p>Flutter-powered mobile solution connecting farmers with modern tools and resources for sustainable agriculture.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎨 <strong>Other Highlights</strong></h3>
-        <p><em>And Many More...</em></p>
-        <a href="https://github.com/Skr-suyash?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore%20All%20Repos-GitHub-181717?style=for-the-badge&logo=github" alt="All Repos">
-        </a>
-        <br><br>
-        <p>CareerCraft, CodeBuddy, FandomFusion, and 50+ more innovative projects!</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 **Tech Stack**
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Languages** ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-</div>
+**Frameworks & AI/ML** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 🎯 **What I Do**
+### 💻 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h4>🚀 Full-Stack Development</h4>
-        <p>Building end-to-end web and mobile solutions</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>🤖 AI & Machine Learning</h4>
-        <p>Creating intelligent systems and models</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>💾 Systems Programming</h4>
-        <p>Low-level optimization and databases</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>🌐 Open Source</h4>
-        <p>Contributing to the developer community</p>
-      </td>
-    </tr>
-  </table>
-</div>
+#### 📉 [PRISM: Predictive Routing & Intelligent Shift Management](#)
+An AI-driven traffic intelligence platform that detects illegal parking hotspots and quantifies their congestion impact using machine learning.
+* **Tech:** Python, FastAPI, Next.js, XGBoost, Scikit-Learn.
+* **Impact:** Engineered an operational priority scoring engine combining rule-based heuristics and an XGBoost classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact traffic bottlenecks. Implemented time-series forecasting and Isolation Forest anomaly detection for pre-emptive patrol deployment.
 
----
+#### 📈 [NovaTrade: An Agentic Trading Platform](#)
+An algorithmic trading copilot powered by a hybrid LLM engine for natural-language trade execution. 
+* **Tech:** Python, React, GenAI, WebSockets.
+* **Impact:** Developed an async Python daemon automating trade execution every 30s with AI sentiment analysis, reducing latency by >99%. Secured 3rd place out of 80+ teams.
 
-## 📊 **GitHub Stats**
+#### 🌐 [NetPulse: Intelligent Network Diagnostic Engine](#)
+An advanced networking utility utilizing the Pathneck Recursive Packet Train algorithm for precise bottleneck attribution.
+* **Tech:** C++, Networking Protocols, Packet Analysis.
+* **Impact:** Provides real-time Wi-Fi diagnostics, DNS benchmarking, and ISP accountability reporting to troubleshoot complex latency and routing issues.
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skr-suyash&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skr-suyash&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 **Featured Work**
-
-- **CareerCraft** - AI-powered career enhancement platform with resume optimization
-- **CodeBuddy** - Flutter app for competitive programming practice with LeetCode integration
-- **DING** - A complete Version Control System built from scratch in Python
-- **Traffic Sign Detector** - Deep learning model for traffic sign recognition
-- **CodeCraft** - Comprehensive competitive programming handbook
-
----
-
-## 📚 **Project Categories**
-
-| Category | Count | Examples |
-|----------|-------|----------|
-| 🎓 Education | 5+ | HappyU, CodeBuddy, CodeCraft |
-| 💼 Enterprise | 4+ | CareerCraft, NovaTrade, GraphicGig |
-| 🤖 AI/ML | 8+ | Traffic Sign Detector, Face Mask Detection |
-| 📱 Mobile | 6+ | FarmMate, Travelog, CubeSurfer |
-| 🌐 Web | 15+ | FandomFusion, Ecommerce Clone, StartBlogging |
-| 🔧 Tools & Systems | 10+ | DING (VCS), MosaicDB, CodeThesaur.us |
-
----
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Skr-suyash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/skr-suyash)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skr_suyash)
-
-</div>
-
----
-
-## 💡 **Philosophy**
-
-> *"Code is not just about solving problems—it's about creating experiences. I believe in building solutions that are not just functional, but beautiful, accessible, and make a real impact."*
+#### 🧠 [HappyU: Mental Health Platform](#)
+A full-stack, AI-driven mental telehealth platform featuring secure communication and NLP mood analysis.
+* **Tech:** Node.js, Express, PostgreSQL, React, WebRTC.
+* **Impact:** Built secure real-time chat and video sessions via WebSockets and WebRTC with JWT authentication, designing 30+ REST API endpoints via strict MVC architecture.
 
 ---
 
 <div align="center">
-  
-  ### 🌟 Always Learning • Always Building • Always Growing 🌟
-  
-  <img src="https://komarev.com/ghpvc/?username=Skr-suyash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ If you find my work interesting, consider starring some of my repos! Your support means the world to me.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Skr-suyash&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skr-suyash&theme=radical" alt="GitHub Streak" />
 </div>
