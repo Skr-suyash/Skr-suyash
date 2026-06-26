@@ -13,12 +13,26 @@
   </a>
 </p>
 
+---
 
 ### 🚀 About Me
 
-<p>
-I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to devel[...]
-</p>
+I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to developing predictive machine learning pipelines for traffic management, I thrive at the intersection of complex problem-solving and scalable software development.
+
+* 🎓 **Academics:** BTech in Information Technology with a Minor in Entrepreneurship.
+* 💻 **Focus Areas:** Full-Stack Architecture, Applied Machine Learning, and Algorithmic Trading Systems.
+* 🤝 **Community:** GDG Web Development Wing Member (conducted workshops for 100+ participants) and Problem Setter for Code-X-Culture.
+
+---
+
+### 🏆 Competitive Programming
+
+* **LeetCode:** ♘ Knight (Max Rating: 1928)
+* **CodeChef:** ★★★★ 4-Star (Max Rating: 1812)
+* **Codeforces:** 🔹 Specialist (Max Rating: 1560)
+* **Meta Hacker Cup 2025:** Round 1 (Rank: 4682) | Round 2 (Rank: 1993)
+* **IIITA CodePlus:** Ranked 2nd among all sophomores in the Long Contest.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -44,7 +58,7 @@ I am a software engineer deeply passionate about building high-performance syste
 #### 📉 [PRISM: Predictive Routing & Intelligent Shift Management](#)
 An AI-driven traffic intelligence platform that detects illegal parking hotspots and quantifies their congestion impact using machine learning.
 * **Tech:** Python, FastAPI, Next.js, XGBoost, Scikit-Learn.
-* **Impact:** Engineered an operational priority scoring engine combining rule-based heuristics and an XGBoost classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact traffic bottl[...]
+* **Impact:** Engineered an operational priority scoring engine combining rule-based congestion heuristics and an XGBoost propensity classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact traffic bottlenecks. Implemented time-series forecasting and Isolation Forest anomaly detection for pre-emptive patrol deployment.
 
 #### 📈 [NovaTrade: An Agentic Trading Platform](#)
 An algorithmic trading copilot powered by a hybrid LLM engine for natural-language trade execution. 
