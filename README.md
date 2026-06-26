@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 <p>
-I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to developing predictive machine learning pipelines for traffic management, I thrive at the intersection of complex problem-solving and scalable software development.
+I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to devel[...]
 </p>
 ---
 
@@ -33,6 +33,9 @@ I am a software engineer deeply passionate about building high-performance syste
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 
 ---
 
@@ -41,7 +44,7 @@ I am a software engineer deeply passionate about building high-performance syste
 #### 📉 [PRISM: Predictive Routing & Intelligent Shift Management](#)
 An AI-driven traffic intelligence platform that detects illegal parking hotspots and quantifies their congestion impact using machine learning.
 * **Tech:** Python, FastAPI, Next.js, XGBoost, Scikit-Learn.
-* **Impact:** Engineered an operational priority scoring engine combining rule-based heuristics and an XGBoost classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact traffic bottlenecks. Implemented time-series forecasting and Isolation Forest anomaly detection for pre-emptive patrol deployment.
+* **Impact:** Engineered an operational priority scoring engine combining rule-based heuristics and an XGBoost classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact traffic bottl[...]
 
 #### 📈 [NovaTrade: An Agentic Trading Platform](#)
 An algorithmic trading copilot powered by a hybrid LLM engine for natural-language trade execution. 
