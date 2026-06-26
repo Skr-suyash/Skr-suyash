@@ -62,8 +62,3 @@ A full-stack, AI-driven mental telehealth platform featuring secure communicatio
 * **Impact:** Built secure real-time chat and video sessions via WebSockets and WebRTC with JWT authentication, designing 30+ REST API endpoints via strict MVC architecture.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skr-suyash&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skr-suyash&theme=radical" alt="GitHub Streak" />
-</div>
