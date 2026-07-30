@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to developing predictive machine learning pipelines for traffic management, I thrive at the intersection of complex problem-solving and scalable software development.
+I am a software engineer deeply passionate about building high-performance systems and applying algorithmic logic to real-world infrastructure. From architecting AI-driven trading daemons to developing scalable network diagnostics and health platforms, I enjoy turning complex problems into reliable, production-ready solutions.
 
 ---
 
@@ -41,22 +41,22 @@ I am a software engineer deeply passionate about building high-performance syste
 
 ### 💻 Featured Projects
 
-#### 📉 [PRISM: Predictive Routing & Intelligent Shift Management](#)
+#### 📉 [PRISM: Predictive Routing & Intelligent Shift Management](https://github.com/Skr-suyash/prism)
 An AI-driven traffic intelligence platform that detects illegal parking hotspots and quantifies their congestion impact using machine learning.
 * **Tech:** Python, FastAPI, Next.js, XGBoost, Scikit-Learn.
-* **Impact:** Engineered an operational priority scoring engine combining rule-based congestion heuristics and an XGBoost propensity classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact traffic bottlenecks. Implemented time-series forecasting and Isolation Forest anomaly detection for pre-emptive patrol deployment.
+* **Impact:** Engineered an operational priority scoring engine combining rule-based congestion heuristics and an XGBoost propensity classifier (0.75 ROC-AUC, 0.84 F1) to detect and prioritize high-impact parking-related congestion hotspots.
 
-#### 📈 [NovaTrade: An Agentic Trading Platform](#)
+#### 📈 [NovaTrade: An Agentic Trading Platform](https://github.com/Skr-suyash/NovaTrade)
 An algorithmic trading copilot powered by a hybrid LLM engine for natural-language trade execution. 
 * **Tech:** Python, React, GenAI, WebSockets.
 * **Impact:** Developed an async Python daemon automating trade execution every 30s with AI sentiment analysis, reducing latency by >99%. Secured 3rd place out of 80+ teams.
 
-#### 🌐 [NetPulse: Intelligent Network Diagnostic Engine](#)
+#### 🌐 [NetPulse: Intelligent Network Diagnostic Engine](https://github.com/CN-2026-IIITA/NetPulse)
 An advanced networking utility utilizing the Pathneck Recursive Packet Train algorithm for precise bottleneck attribution.
 * **Tech:** C++, Networking Protocols, Packet Analysis.
 * **Impact:** Provides real-time Wi-Fi diagnostics, DNS benchmarking, and ISP accountability reporting to troubleshoot complex latency and routing issues.
 
-#### 🧠 [HappyU: Mental Health Platform](#)
+#### 🧠 [HappyU: Mental Health Platform](https://github.com/Skr-suyash/HappyU)
 A full-stack, AI-driven mental telehealth platform featuring secure communication and NLP mood analysis.
 * **Tech:** Node.js, Express, PostgreSQL, React, WebRTC.
 * **Impact:** Built secure real-time chat and video sessions via WebSockets and WebRTC with JWT authentication, designing 30+ REST API endpoints via strict MVC architecture.
